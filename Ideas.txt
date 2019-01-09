@@ -37,4 +37,5 @@ Have the tutorial be you getting out of a room with the copy book and the sign
 Have a scene with the bottles
 Use British currency (kind of)
 Disclaimer: All the text in this game should be read In a British accent
+Have pencil instead of cursor
 
