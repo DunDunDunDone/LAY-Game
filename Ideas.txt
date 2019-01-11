@@ -38,9 +38,10 @@ Have a scene with the bottles
 Use British currency (kind of)
 Disclaimer: All the text in this game should be read In a British accent
 Have pencil instead of cursor
+Invisible detector
 
 Areas:
-Spherical Lab Field
+Spherical Lab Field (Tutorial)
 Your Lab
 Calcium Refinery
 Secret Area: Broadsheet Acres
