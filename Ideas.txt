@@ -39,3 +39,17 @@ Use British currency (kind of)
 Disclaimer: All the text in this game should be read In a British accent
 Have pencil instead of cursor
 
+Areas:
+Spherical Lab Field
+Your Lab
+Calcium Refinery
+Secret Area: Broadsheet Acres
+Iron Mine
+Secret Area: Hexagon Hill
+Graveyard
+Citadel City
+Citadel 5 1 5 7 000 (final area)
+
+Final boss:
+Cheskers
+
