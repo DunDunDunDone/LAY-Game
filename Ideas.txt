@@ -1,7 +1,9 @@
 Calcium:
+Invisible maze
 
 Maths:
 
+A bus that you are always 8 pence short for
 A uniformly curved line, <— Makes it too obvious
 In the center your next clue
 N-squared plus nine plus nine
@@ -46,8 +48,11 @@ Your Lab
 Calcium Refinery
 Secret Area: Broadsheet Acres
 Iron Mine
+"Germany"
 Secret Area: Hexagon Hill
 Graveyard
+Secret Area: Tlentifini Maarhaysu
+Outdoor area
 Citadel City
 Citadel 5 1 5 7 000 (final area)
 
