@@ -1,7 +1,9 @@
 Calcium:
+Invisible maze
 
 Maths:
 
+A bus that you are always 8 pence short for
 A uniformly curved line, <— Makes it too obvious
 In the center your next clue
 N-squared plus nine plus nine
@@ -71,6 +73,10 @@ Iron Mine
 Secret Area: Hexagon Hill (2D platform section)
 Graveyard
 Rival lab
+"Germany"
+Secret Area: Tlentifini Maarhaysu
+Outdoor area
+>>>>>>> 9136b17912e4f4f3a1fe7aafd2a98e872a399ef4
 Citadel City
 Citadel 5 1 5 7 000 (final area)
 
