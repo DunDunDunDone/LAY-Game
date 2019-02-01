@@ -1,8 +1,20 @@
 Calcium:
 Invisible maze
+Calcium bins (Use these to bypass security in calcium refinery)
+Zapping flowers
+Milchig
+Thompson’s oil
+Calcium oxide paralysis
+REMS
+Icalcium interviewing
+
 
 Maths:
-
+Royal maths society holding the competition
+Fast travel
+Characters from the height problem
+Meat selling area in town
+A courtyard with 8 shops
 A bus that you are always 8 pence short for
 A uniformly curved line, <— Makes it too obvious
 In the center your next clue
@@ -12,7 +24,7 @@ To find it just look around you
 Use calculator to go between areas. Some areas are dangerous to fly in so using fly kills you
 
 Water:
-
+Pour water on tv for xp
 
 Germs:
 
@@ -40,6 +52,7 @@ Brain flakes
 Paper:
 
 General:
+Besselheim plates
 Have the tutorial be you getting out of a room with the copy book and the sign, maybe ulfur sulfur to show the xp system
 Have a scene with the bottles
 Use British currency (kind of)
@@ -63,10 +76,11 @@ Translation (English)
 Non-Euclidian map section
 
 Areas:
+Waterfall in Outside Area and Seaside Area
 Spherical Lab Field (Tutorial)
 Your Lab
-Calcium Refinery
-Haunted Lab
+Calcium Refinery (Holdwick Park Refinery, Smoke, Calcium refinery puzzles from control rooms, Calcium vault)
+Haunted Lab (Helvetica happened)
 Secret Area: Broadsheet Acres
 Secret Area: Dracula Cathedral
 Iron Mine
@@ -74,11 +88,12 @@ Secret Area: Hexagon Hill (2D platform section)
 Graveyard
 Rival lab
 "Germany"
-Secret Area: Tlentifini Maarhaysu
+Secret Area: Tlentifini Maarhaysu (random music)
 Outdoor area
->>>>>>> 9136b17912e4f4f3a1fe7aafd2a98e872a399ef4
+This Here Town (or some other smaller town area with tunnel)
 Citadel City
 Citadel 5 1 5 7 000 (final area)
+Haaben U/Forchung
 
 Final boss:
 Cheskers
