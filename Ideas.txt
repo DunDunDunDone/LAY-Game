@@ -7,6 +7,7 @@ Thompson’s oil
 Calcium oxide paralysis
 REMS
 Icalcium interviewing
+Haaben U/Forchung
 
 
 Maths:
@@ -32,6 +33,7 @@ Ghosts:
 
 Sulfer:
 Ulfer sulfer xp
+Laser eye puzzles
 
 Music:
 
@@ -52,6 +54,7 @@ Brain flakes
 Paper:
 
 General:
+Get xp from doing the BASIC code
 Besselheim plates
 Have the tutorial be you getting out of a room with the copy book and the sign, maybe ulfur sulfur to show the xp system
 Have a scene with the bottles
@@ -72,6 +75,7 @@ Stunning (stun
 History facts about the area you’re in (history)
 Fixing the fast travel map (which is wrong to begin) (geography)
 Translation (English)
+Diagram vision
 
 Non-Euclidian map section
 
@@ -93,11 +97,28 @@ Outdoor area
 This Here Town (or some other smaller town area with tunnel)
 Citadel City
 Citadel 5 1 5 7 000 (final area)
-Haaben U/Forchung
+Waste disposal area
+Theatre
+
 
 Final boss:
 Cheskers
 
 Tutorial:
-Room with copy book on desk and sign that says “They’re there in their room” (to encourage using the interact feature) Then another connected room with a sulfur bottle (which when picked up says that “you think of the benediction of our lady Margaret” or “hydro something (mumble mumble)” or a two headed swan and ask you to write it down [to introduce what the copy book does]) and ulfur as well as a piano with one forbidden note. If you try to leave before collecting the forbidden note (or the copy book) it says, “you feel like you’re forgetting something” If you pick up the bottle and inspect the ulfur, it allows you to use it and gain xp. This let’s you level up and the menu encourages you to increase intelligence. If you don’t it says, “You idiot (replace with something British later)! Now you’ll never be able to even finish the tutorial (translate to British later)” and crashes the game (and resets you file). When you go to the piano, if you inspect it with enough (1) intelligence you rip out the forbidden note and add it to your inventory. If your intelligence is 0, you play the forbidden note and die.
+Room with copy book on desk and sign that says “They’re there in their room” (to encourage using the interact feature) Then another connected room with a sulfur bottle (which when picked up says that “you think of the benediction of our lady Margaret” or “hydrosulphic chlorination of tetranetezine” or a two headed swan and ask you to write it down [to introduce what the copy book does]) and ulfur as well as a piano with one forbidden note. If you try to leave before collecting the forbidden note (or the copy book) it says, “you feel like you’re forgetting something” If you pick up the bottle and inspect the ulfur, it allows you to use it and gain xp. This let’s you level up and the menu encourages you to increase intelligence. If you don’t it says, “You idiot (replace with something British later)! Now you’ll never be able to even finish the tutorial (translate to British later)” and crashes the game (and resets you file). When you go to the piano, if you inspect it with enough (1) intelligence you rip out the forbidden note and add it to your inventory. If your intelligence is 0, you play the forbidden note and die.
+
+Key Items:
+Calculator + features
+Labelmaker
+Copybook
+Boite Diobalique
+
+Items:
+Solutions(increase stats)
+
+Stats:
+Stealth
+Intelligence
+Strength
+
 
