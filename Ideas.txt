@@ -9,7 +9,6 @@ REMS
 Icalcium interviewing
 Haaben U/Forchung
 
-
 Maths:
 Royal maths society holding the competition
 Fast travel
@@ -17,6 +16,7 @@ Characters from the height problem
 Meat selling area in town
 A courtyard with 8 shops
 A bus that you are always 8 pence short for
+
 A uniformly curved line, <— Makes it too obvious
 In the center your next clue
 N-squared plus nine plus nine
