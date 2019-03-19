@@ -65,13 +65,13 @@ Invisible detector
 Have a small inventory and an event that has the villain capture you and steal the forbidden notes
 Have a box which stores items (maybe use bottles to store items in the lab)
 Box text:
-	The humble box. You may have seen one as a kid. As you probably already know, boxes lead to other dimensional holes and can be accessed from anywhere. This has made them really useful in the waste disposal industry after Sulphagne became too expensive. Now, people just throw their trash in boxes.
+	The humble box. You may have seen one as a kid. As you probably already know, boxes lead to other dimensional holes and can be accessed from anywhere. This has made them really useful in the waste disposal industry after Sulphagne became too expensive. Now, people mostly throw trash in boxes.
 Occasionally have trash appear in your box
 
 Get label maker to enable bottle storage
 Calculator:
 Fast travel (maths)
-Stunning (stun
+Stunning (stun)
 History facts about the area you’re in (history)
 Fixing the fast travel map (which is wrong to begin) (geography)
 Translation (English)
@@ -80,25 +80,26 @@ Diagram vision
 Non-Euclidian map section
 
 Areas:
-Waterfall in Outside Area and Seaside Area
+Waterfall in Outside Area and Seaside Area 
 Spherical Lab Field (Tutorial)
 Your Lab
 Calcium Refinery (Holdwick Park Refinery, Smoke, Calcium refinery puzzles from control rooms, Calcium vault)
 Haunted Lab (Helvetica happened)
 Secret Area: Broadsheet Acres
 Secret Area: Dracula Cathedral
-Iron Mine
+Iron Mine 
 Secret Area: Hexagon Hill (2D platform section)
 Graveyard
-Rival lab
-"Germany"
+Rival lab 
+"Germany" 
 Secret Area: Tlentifini Maarhaysu (random music)
 Outdoor area
 This Here Town (or some other smaller town area with tunnel)
-Citadel City
+Citadel City 
 Citadel 5 1 5 7 000 (final area)
 Waste disposal area
 Theatre
+
 
 
 Final boss:
